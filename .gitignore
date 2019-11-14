@@ -1,3 +1,5 @@
 .vscode
 *.pyc
 /flask_demo
+app.db
+migrations/
